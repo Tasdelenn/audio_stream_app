@@ -24,7 +24,7 @@ Bu uygulama, aynı ağdaki cihazlara ses streami yapmayı amaçlar.
 1. Flutter'ı kurun: [Flutter Install Guide](https://docs.flutter.dev/get-started/install)
 2. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/sizin-kullanici-adiniz/audio_stream_app.git 
+   git clone https://github.com/tasdelenn/audio_stream_app.git 
    ```
 3. Bağımlılıkları yükleyin:
 
